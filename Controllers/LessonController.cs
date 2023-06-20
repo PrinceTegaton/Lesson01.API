@@ -1,5 +1,6 @@
 using Lesson01.API.DTO;
 using Lesson01.API.Interfaces;
+using MicroServices.Shared.Adapters;
 using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
 
